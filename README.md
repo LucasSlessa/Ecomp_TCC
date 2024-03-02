@@ -35,7 +35,7 @@ This is the official repository of Project XYZ, a project that combines hardware
 - 6 infrared sensors.
 - 3 servo motors.
 - 1 Raspberry Pi.
-- Head display (https://produto.mercadolivre.com.br/MLB-1490190629-tela-touch-35-polegadas-shield-p-arduino-uno-mega2560-_JM#position=7&search_layout=stack&type=item&tracking_id=d76382fc-bf29-490d-a890-cceca72a66a1) - R$139.00
+- Head display- [Link](https://produto.mercadolivre.com.br/MLB-1490190629-tela-touch-35-polegadas-shield-p-arduino-uno-mega2560-_JM#position=7&search_layout=stack&type=item&tracking_id=d76382fc-bf29-490d-a890-cceca72a66a1) - R$139.00
 - Power supply.
 - Speaker.
 - Microphone module (Omnidirectional I2S Interface Microphone Module Inmp441) - [Link](https://produto.mercadolivre.com.br/MLB-3538703159-modulo-de-microfone-omnidirecional-i2s-interface-inmp441-_JM?matt_tool=40343894&matt_word=&matt_source=google&matt_campaign_id=14303413655&matt_ad_group_id=133855953276&matt_match_type=&matt_network=g&matt_device=c&matt_creative=584156655519&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=381000916&matt_product_id=MLB3538703159&matt_product_partition_id=2268053647590&matt_target_id=aud-1966009190540:pla-2268053647590&cq_src=google_ads&cq_cmp=14303413655&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1)
