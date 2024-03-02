@@ -20,10 +20,11 @@ Este é o repositório oficial do projeto XYZ, um projeto que combina hardware e
 
 ## Lista de Materiais
 
-- 2 ESP32
-- Sensor de temperatura
-- 6 sensores infravermelhos
-- 3 motores servo
+- 2 ESP32.
+- Sensor de temperatura.
+- 6 sensores infravermelhos.
+- 3 motores servo.
+- 1 RaspBerry-pi
 - Display para cabeça (https://produto.mercadolivre.com.br/MLB-1490190629-tela-touch-35-polegadas-shield-p-arduino-uno-mega2560-_JM#position=7&search_layout=stack&type=item&tracking_id=d76382fc-bf29-490d-a890-cceca72a66a1) - R$139.00
 - Fonte de energia
 - Speaker alto-falante
