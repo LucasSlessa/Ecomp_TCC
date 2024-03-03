@@ -1,4 +1,4 @@
-# Project XYZ
+# Project Alu
 
 This is the official repository of Project XYZ, a project that combines hardware and software to create an intelligent robot with advanced functionalities. The project is developed using the following technologies:
 

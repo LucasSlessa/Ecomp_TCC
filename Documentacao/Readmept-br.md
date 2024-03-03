@@ -1,4 +1,4 @@
-# Projeto XYZ
+# Projeto Alu
 
 Este é o repositório oficial do projeto XYZ, um projeto que combina hardware e software para criar um robô inteligente com funcionalidades avançadas. O projeto é desenvolvido utilizando as seguintes tecnologias:
 
