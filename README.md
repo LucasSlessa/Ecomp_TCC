@@ -1,4 +1,4 @@
-# Project Alu <img src="Banco_de_Imagens/Alu-logo.png" width="60" />
+# Project Alu 
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" /> 
@@ -42,10 +42,9 @@ This is the official repository of Project XYZ, a project that combines hardware
 - Ultrasonic sensor.
 - Light sensor.
 
-## Schedule
+## Alu Tecnology
 
-- **Requirements documents**: By Wednesday.
-- **TCC document**: By Wednesday.
+ <img src="Banco_de_Imagens/Alu-logo.png" width="300"  />
 
 ## Note
 
