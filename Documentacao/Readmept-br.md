@@ -14,7 +14,7 @@ Este é o repositório oficial do projeto Alu, um projeto que combina hardware e
 - **Sistema Operacional Linux (opção)**: Suporte ao sistema operacional Linux, utilizando a porta HDMI do Raspberry Pi.
 - **ESP32-Cam (opcional)**: Possibilidade de integração com o ESP32-Cam para funcionalidades adicionais.
 - **Display no peitoral para monitoramento de horário (I2C)**: Display integrado para exibição de informações de horário.
-- **Ligar o robô com ultrassônico**: Funcionalidade de ligar/desligar o robô utilizando um sensor ultrassônico.
+- **Ligar o robô com sensor de presença*: Funcionalidade de ligar/desligar o robô utilizando um sensorde presença
 - **Detecção de temperatura**: Sistema capaz de detectar a temperatura ambiente.
 - **Detecção de luminosidade**: Sistema capaz de detectar a luminosidade ambiente.
 
@@ -29,7 +29,7 @@ Este é o repositório oficial do projeto Alu, um projeto que combina hardware e
 - Fonte de energia
 - Speaker alto-falante
 - Módulo de microfone (Módulo De Microfone Omnidirecional I2s Interface Inmp441) - [Link](https://produto.mercadolivre.com.br/MLB-3538703159-modulo-de-microfone-omnidirecional-i2s-interface-inmp441-_JM?matt_tool=40343894&matt_word=&matt_source=google&matt_campaign_id=14303413655&matt_ad_group_id=133855953276&matt_match_type=&matt_network=g&matt_device=c&matt_creative=584156655519&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=381000916&matt_product_id=MLB3538703159&matt_product_partition_id=2268053647590&matt_target_id=aud-1966009190540:pla-2268053647590&cq_src=google_ads&cq_cmp=14303413655&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1)
-- Sensor ultrassônico
+- Sensor de presença
 - Sensor de luminosidade
 
 ## Cronograma
